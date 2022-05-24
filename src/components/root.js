@@ -10,5 +10,3 @@ export function Root() {
     </div>
   );
 }
-
-export default Root;

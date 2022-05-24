@@ -27,3 +27,13 @@ export const Files = [
 ];
 
 export const Classes = {"root_div" : "root"};
+
+export const Endpoints = {
+    "crudcrud": [
+        "https://crudcrud.com/api/a7272038c5b649a8ad22171dc31d6774/forms",
+    ],
+    "local": {
+        "forms": "http://localhost:3001/forms",
+        "images": "http://localhost:3001/images",
+    }
+};
